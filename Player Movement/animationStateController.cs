@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+﻿/*using UnityEngine;
 using UnityEngine.InputSystem;
 
 public class animationStateController : MonoBehaviour
@@ -226,3 +226,4 @@ public class animationStateController : MonoBehaviour
         input.CharacterControls.Disable();
     }
 }
+*/
